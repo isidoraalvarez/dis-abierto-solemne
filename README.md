@@ -11,7 +11,7 @@ La pagina decidimos hacerla de diseño abierto 2026 de la Escuela de Diseño, Un
 ---
 # *Partimos diseñando un prototipo en figma para hacernos una idea de lo que queriamos realizar.
 
-https://www.figma.com/design/Cedf2poMobkvKeO5EyN85q/Dise%C3%B1o-Abierto?node-id=0-1&t=6yQy3IdBw2SHGX38-1
+### LINK FIGMA: https://www.figma.com/design/Cedf2poMobkvKeO5EyN85q/Dise%C3%B1o-Abierto?node-id=0-1&t=6yQy3IdBw2SHGX38-1
 
 <img width="670" height="753" alt="image" src="https://github.com/user-attachments/assets/a02ea39a-91e0-4fbe-8a78-24f341847ea8" />
 
